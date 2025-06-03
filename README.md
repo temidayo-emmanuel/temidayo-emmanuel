@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="30"/> 
-  Hi, I'm <span style="color:#007acc;">Temidayo</span>
-</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Frontend+%2F+Backend+Engineer;I+build+awesome+digital+products!&center=true&width=500&height=45" />
@@ -11,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </p>
 
-<h3 align="center">💻 Software Developer | I turn ideas into interactive digital products.</h3>
+<h3 align="center"> Turning ideas into interactive digital products.</h3>
 
 ---
 
@@ -52,7 +49,7 @@
 -->
 ---
 
-### 💻 Frontend Stack
+### 💻 Frontend
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 20px; max-width: 400px; margin: 0 auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" title="React" />
@@ -67,7 +64,7 @@
 
 ---
 
-### 🛠️ Backend Stack
+### 🛠️ Backend
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 20px; max-width: 300px; margin: 0 auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" title="Node.js" />
@@ -91,17 +88,11 @@
 
 <p align="center>
   <a href="https://linkedin.com/in/adebayotemidayo" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:example@gmail.com" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" alt="Email"/>
+  <a href="mailto:adebayotemidayo601@gmail.com" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email"/>
   </a>
 </p>
 
 ---
-
-### ⚡ Bonus: Snake Eating My Contributions 🐍
-
-<p align="center">
-  <img src="https://github.com/temidayo-emmanuel/temidayo-emmanuel/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
