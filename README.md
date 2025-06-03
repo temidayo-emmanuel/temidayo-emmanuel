@@ -38,7 +38,7 @@ const temidayo = {
 
 ---
 
-## 🎯 Current Projects & Focus
+## 🎯 Featured Projects
 
 <div>
 
