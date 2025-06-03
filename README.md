@@ -17,12 +17,13 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: [**EduMob**](https://edumob-demo.vercel.app) – a MERN-based student management platform  
-- 🌱 Learning: **Next.js 14**, **TypeScript**, **Three.js**, **GSAP**, and more  
-- 👯 Open to collaborate on: [**OpenHealth Dashboard**](https://github.com/yourusername/openhealth-dashboard) – healthcare analytics with React + D3  
-- 💬 Ask me about: **React**, **Vue**, **GSAP**, **UI performance**, and **MERN Stack**  
-- 📫 Reach me at: **example@gmail.com**  
+<!-- - 🔭 Currently working on: [**EduMob**](https://edumob-demo.vercel.app) – a MERN-based student management platform -->
+- 🌱 Learning: **Next.js 15**, **TypeScript**, **Three.js**, **GSAP**, and more
+- 💬 Ask me about: **React**, **GSAP**, **UI performance**, and **MERN Stack**  
+- 📫 Reach me at: **adebayotemidayo601@gmail.com**  
 - ⚡ Fun fact: I talk to my console more than people 😄  
+<!--- 👯 Open to collaborate on: [**OpenHealth Dashboard**](https://github.com/yourusername/openhealth-dashboard) – healthcare analytics with React + D3 --> 
+
 
 ---
 
@@ -43,12 +44,12 @@
 
 ---
 
-### 🧩 Featured Projects
+<!-- ### 🧩 Featured Projects
 
 - 🚀 [**EduMob**](https://edumob-demo.vercel.app): MERN student management app  
 - 📊 [**OpenHealth Dashboard**](https://github.com/yourusername/openhealth-dashboard): D3.js health analytics  
 - 🏠 [**Vatel Properties**](https://vatelproperties.com): Real estate website with listings & booking  
-
+-->
 ---
 
 ### 💻 Frontend Stack
