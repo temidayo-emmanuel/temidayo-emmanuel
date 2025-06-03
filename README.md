@@ -1,14 +1,15 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Frontend+%2F+Backend+Engineer;I+build+awesome+digital+products!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-Stack+Developer;Frontend+%2F+Backend+Engineer;I+build+awesome+digital+products;I+turn+ideas+into+interactive+digital+products!&center=true&width=600&height=45" />
 </p>
+
+<h4 align="center"></h4>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 </p>
-
-<h3 align="center"> Turning ideas into interactive digital products.</h3>
 
 ---
 
