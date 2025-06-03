@@ -132,5 +132,5 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/temidayo-emmanuel">temidayo-emmanuel</a> - Let's build something amazing together! 🚀</i>
+  - Let's build something amazing together! 🚀</i>
 </div>
