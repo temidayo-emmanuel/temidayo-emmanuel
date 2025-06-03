@@ -29,7 +29,7 @@ const temidayo = {
     "Three.js & Framer motion",
     "Advanced GSAP Animations",
   ],
-  askMeAbout: "React, GSAP, UI performance and MERN Stack 💬",
+  askMeAbout: "React, UI performance and MERN Stack 💬",
   funFact: "I talk to my console more than people 😄"
 };
 ```
