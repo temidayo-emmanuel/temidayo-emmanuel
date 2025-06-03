@@ -15,7 +15,7 @@
 </div>
 
 
-## 🎯 About Me
+## About Me
 
 
 ```typescript
