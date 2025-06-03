@@ -105,6 +105,17 @@ const temidayo = {
 
 ---
 
+## 📈 Weekly Development Breakdown
+
+```text
+TypeScript   12 hrs 30 mins  ████████████████▓░░░░   68.5%
+React        4 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   23.2%
+CSS/SCSS     1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░    7.3%
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░    1.0%
+```
+
+---
+
 
 ## 📫 Let's Connect & Collaborate
 
@@ -119,26 +130,6 @@ const temidayo = {
 
 ---
 
-
-## 📈 Weekly Development Breakdown
-
-```text
-TypeScript   12 hrs 30 mins  ████████████████▓░░░░   68.5%
-React        4 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░   23.2%
-CSS/SCSS     1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░    7.3%
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░    1.0%
-```
-
----
-
-## 💭 Random Developer Quote
-
-<div>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=00D9FF" alt="Random Dev Quote"/>
-</div>
-
-
----
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/temidayo-emmanuel">temidayo-emmanuel</a> - Let's build something amazing together! 🚀</i>
