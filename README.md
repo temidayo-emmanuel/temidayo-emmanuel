@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="30"/> 
-  Hi there, I'm <span style="color:#007acc;">Temidayo</span>
+  Hi, I'm <span style="color:#007acc;">Temidayo</span>
 </h1>
 
 <p align="center">
