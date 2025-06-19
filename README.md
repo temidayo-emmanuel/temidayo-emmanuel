@@ -88,7 +88,7 @@ const temidayo = {
 ---
 
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=temidayo-emmanuel&show_icons=true&theme=radical" height="160" />
@@ -102,8 +102,7 @@ const temidayo = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=temidayo-emmanuel&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </p>
-
----
+-->
 
 ## 📈 Weekly Development Breakdown
 
