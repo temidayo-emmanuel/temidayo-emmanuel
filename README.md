@@ -30,7 +30,7 @@ const temidayo = {
     "Advanced GSAP Animations",
   ],
   askMeAbout: "React, UI performance and MERN Stack",
-  funFact: "I talk to my console more than people 😄"
+  funFact: "I talk to my console more than human 😄"
 };
 ```
 
