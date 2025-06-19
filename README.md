@@ -1,4 +1,4 @@
-9
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;Frontend+%2F+Backend+Engineer;I+build+awesome+digital+products;I+turn+ideas+into+interactive+digital+products!&center=true&width=600&height=45" />
 </div>
