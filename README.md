@@ -23,12 +23,12 @@ const temidayo = {
   location: "Ibadan, Nigeria",
   role: "Software Developer",
   experience: "3+ years",
-  currentFocus: [
+ <!-- currentFocus: [
     "Next.js 15 & React 19",
     "TypeScript Architecture",
     "Three.js & Framer motion",
     "Advanced GSAP Animations",
-  ],
+  ],-->
   askMeAbout: "React, UI performance and MERN Stack",
   funFact: "I talk to my console more than humans:)"
 };
