@@ -20,7 +20,6 @@
 
 ```typescript
 const temidayo = {
-  location: "Ibadan, Nigeria",
   role: "Software Developer",
   experience: "3+ years",
  <!-- currentFocus: [
