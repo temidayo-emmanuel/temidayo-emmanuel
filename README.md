@@ -35,8 +35,6 @@ const temidayo = {
 
 <br clear="right"/>
 
----
-
 <!--## 🎯 Featured Projects
 
 <!-- <div>
