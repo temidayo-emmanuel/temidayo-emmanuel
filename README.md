@@ -19,7 +19,7 @@
 
 
 ```typescript
-const temidayo = {
+const temidayoEmmanuel = {
   role: "Software Developer",
   experience: "3+ years",
   currentFocus: [
