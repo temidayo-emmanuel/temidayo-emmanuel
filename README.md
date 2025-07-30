@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+Software+Developer;I+build+awesome+digital+products;I+turn+ideas+into+interactive+digital+products!&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+FullStack+Developer;I+build+awesome+digital+products;I+turn+ideas+into+interactive+digital+products!&center=true&width=600&height=45" />
 </div>
 
 <!--<div align="center">
