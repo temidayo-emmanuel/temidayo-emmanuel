@@ -26,7 +26,7 @@ const temidayoEmmanuel = {
     "Next.js 15 & React 19",
     "TypeScript Architecture",
   ],
-  askMeAbout: "React, UI performance and MERN Stack",
+  askMeAbout: "Next.JS, UI performance and MERN Stack",
   funFact: "I talk to my console more than humans:)"
 };
 ```
