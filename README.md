@@ -20,7 +20,7 @@
 
 ```typescript
 const temidayoEmmanuel = {
-  role: "FullStack Developer",
+  role: "Software Developer",
   experience: "3+ years",
   currentFocus: [
     "Next.js 15 & React 19",
