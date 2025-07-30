@@ -74,15 +74,6 @@ const temidayoEmmanuel = {
 
 ---
 
-## 🧰 Tools
-
-<div>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" title="Git" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" title="VS Code" />&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" title="GitHub" />
-</div>
-
----
 
 
 <!--### 📊 GitHub Stats
