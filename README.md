@@ -114,9 +114,3 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 
 </div>
 
----
-
-
-<div align="center">
-  - Let's build something amazing together! 🚀</i>
-</div>
