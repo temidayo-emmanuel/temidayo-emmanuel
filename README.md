@@ -50,7 +50,7 @@ const temidayoEmmanuel = {
 
 ---
 
-## 💻 Frontend
+## Frontend
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" title="React" />&nbsp;&nbsp;
@@ -64,7 +64,7 @@ const temidayoEmmanuel = {
 
 ---
 
-## 🛠️ Backend
+## Backend
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" title="Node.js" />&nbsp;&nbsp;
