@@ -9,12 +9,6 @@
 -->
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=temidayo-emmanuel&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/temidayo-emmanuel?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers" />
-</div>
-
-
 ## About Me
 
 
@@ -48,6 +42,7 @@ const temidayoEmmanuel = {
 
 ---
 
+<!--
 ## Frontend
 
 <div>
@@ -60,8 +55,10 @@ const temidayoEmmanuel = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" title="SASS" />
 </div>
 
----
+-->
 
+---
+<!--
 ## Backend
 
 <div>
@@ -70,6 +67,7 @@ const temidayoEmmanuel = {
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="30" width="30" title="Express.js" />
 </div>
 
+-->
 ---
 
 
