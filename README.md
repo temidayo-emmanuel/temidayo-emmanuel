@@ -21,7 +21,6 @@ const temidayoEmmanuel = {
     "TypeScript Architecture",
   ],
   askMeAbout: "Next.JS, UI performance and MERN Stack",
-  funFact: "I talk to my console more than humans:)"
 };
 ```
 
