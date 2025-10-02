@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+Full+Stack+Developer;I+build+awesome+digital+products;I+turn+ideas+into+interactive+digital+products!&center=true&width=600&height=45" />
 </div>
 
-<!--<div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" alt="Professional Developer Animation"/>
 </div>
--->
 
 
-<!-- ## About Me
+
+## About Me
 
 
 ```typescript
@@ -23,7 +23,6 @@ const temidayoEmmanuel = {
   askMeAbout: "Next.JS, UI performance and MERN Stack",
 };
 ```
--->
 
 <br clear="right"/>
 
@@ -42,7 +41,6 @@ const temidayoEmmanuel = {
 
 ---
 
-<!--
 ## Frontend
 
 <div>
@@ -55,10 +53,8 @@ const temidayoEmmanuel = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" title="SASS" />
 </div>
 
--->
 
 
-<!--
 ## Backend
 
 <div>
@@ -67,7 +63,6 @@ const temidayoEmmanuel = {
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="30" width="30" title="Express.js" />
 </div>
 
--->
 
 
 
