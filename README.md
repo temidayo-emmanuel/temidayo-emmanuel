@@ -8,7 +8,7 @@
 </div>
 
 
-
+<!--
 ## About Me
 
 
@@ -23,6 +23,7 @@ const temidayoEmmanuel = {
   askMeAbout: "Next.JS, UI performance and MERN Stack",
 };
 ```
+-->
 
 <br clear="right"/>
 
