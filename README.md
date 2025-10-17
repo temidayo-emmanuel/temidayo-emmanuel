@@ -23,11 +23,13 @@ const developer = {
   experience: "4+ years",
   specialties: [
     "MERN Stack",
+    "Flutter",
     "AI Integration",
     "TypeScript Architecture"
   ],
   currentlyLearning: [
     "Next.js",
+    "Flutter",
     "Cloud Architecture",
     "AI/ML"
   ],
