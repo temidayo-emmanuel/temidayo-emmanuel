@@ -1,6 +1,6 @@
 
 <div align="center">
-  # Hi there! 👋 I'm Aayush Vaghela
+  <h1>Hi there! 👋 I'm Aayush Vaghela</h1>
 </div>
 
 <div align="center">
