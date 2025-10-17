@@ -115,9 +115,8 @@ const developer = {
 | **SaaS Dashboard** | React, Node.js, MongoDB | 🟢 Active | [View Live](https://github.com/temidayo-emmanuel) |
 | **Mobile App** | React Native, Firebase | 🔴 Planning | [View Roadmap](https://github.com/temidayo-emmanuel) |
 
-</div> -->
-
 ---
+</div> -->
 
 <!--
 ## Frontend
