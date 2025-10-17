@@ -19,7 +19,7 @@ I'm a passionate **Full Stack Developer** who loves building intelligent, scalab
 ```javascript
 const developer = {
   name: "Temidayo Emmanuel",
-  role: "Full Stack Developer",
+  role: "Full Stack Engineer",
   experience: "4+ years",
   specialties: [
     "MERN Stack",
