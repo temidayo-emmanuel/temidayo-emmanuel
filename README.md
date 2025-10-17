@@ -12,6 +12,22 @@
 </div>
 
 
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer** who loves building intelligent, scalable web applications that solve real-world problems.
+
+```javascript
+const developer = {
+  name: "Temidayo Emmanuel",
+  role: "Full Stack Developer",
+  specialties: ["MERN Stack", "AI Integration", "TypeScript Architecture"],
+  currentlyLearning: ["Next.js", "Advanced Cloud Architecture", "AI"],
+  openToCollaborate: true,
+  funFact: "I believe great code is written with passion and precision ✨"
+};
+```
+
+
 <!--
 ## About Me
 
