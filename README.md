@@ -20,6 +20,7 @@ I'm a passionate **Full Stack Developer** who loves building intelligent, scalab
 const developer = {
   name: "Temidayo Emmanuel",
   role: "Full Stack Developer",
+  years: "4+",
   specialties: ["MERN Stack", "AI Integration", "TypeScript Architecture"],
   currentlyLearning: ["Next.js", "Cloud Architecture", "AI/ML"],
   openToCollaborate: true,
