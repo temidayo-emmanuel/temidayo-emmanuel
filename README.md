@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi there! 👋 I'm Temidayo Emmanuel</h1>
+  <h1>Hi there! 👋 I'm Emmanuel</h1>
 </div>
 
 <div align="center">
