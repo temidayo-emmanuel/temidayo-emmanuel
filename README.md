@@ -52,7 +52,7 @@ const developer = {
 
 ---
 
-
+<!--
 ## 🏆 Featured Projects
 
 ### 📊 **UptimeCheck** - Website Monitoring System
@@ -86,6 +86,7 @@ const developer = {
 - 🛠️ **Built with**: MERN Stack, OpenCV, AI/ML
 - 📁 **Code**: [GitHub Repository](https://github.com/AAYUSH412/Face-Recognition-Attendance-System)
 
+-->
 ---
 
 
