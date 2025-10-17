@@ -57,31 +57,34 @@ const developer = {
 
 ### 📊 **UptimeCheck** - Website Monitoring System
 > **Real-time uptime tracking and monitoring for websites**
-
 - 🔍 **What it does**: Comprehensive website monitoring with real-time alerts
 - 🛠️ **Built with**: Next.js, Bun, PostgreSQL, Prisma, WebSockets
+- 📈 **Status**: 🟢 Active 
 - 🌐 **Live**: [uptimecheck.vercel.app](https://uptimecheck.vercel.app)
 - 📁 **Code**: [GitHub Repository](https://github.com/AAYUSH412/uptimecheck)
 
+
 ### 🏠 **BuildEstate** - AI-Powered Real Estate Platform
 > **Smart property recommendations using AI**
-
 - 🔍 **What it does**: Personalized property recommendations and real estate management
 - 🛠️ **Built with**: React, Node.js, MongoDB, AI/ML
+- 📈 **Status**: 🟡 In Progress
 - 🌐 **Live**: [buildestate.vercel.app](https://buildestate.vercel.app)
 - 📁 **Code**: [GitHub Repository](https://github.com/AAYUSH412/Real-Estate-Website)
 
+
 ### 🎉 **EventPro** - Event Management Platform
 > **Complete event management with ticketing system**
-
 - 🔍 **What it does**: Event creation, ticketing, and location integration
 - 🛠️ **Built with**: React, Node.js, MongoDB, Supabase, Google Maps API
+- 📈 **Status**: 🔴 Planning 
 - 🌐 **Live**: [eventpro-frontend.vercel.app](https://eventpro-frontend.vercel.app/)
 - 📁 **Code**: [GitHub Repository](https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-)
 
+
 ### 📷 **AI-Based Attendance System**
 > **Automated attendance using face recognition**
-
+- 📈 **Status**: 🟡 In Progress
 - 🔍 **What it does**: Face recognition for automatic attendance tracking
 - 🛠️ **Built with**: MERN Stack, OpenCV, AI/ML
 - 📁 **Code**: [GitHub Repository](https://github.com/AAYUSH412/Face-Recognition-Attendance-System)
@@ -89,24 +92,6 @@ const developer = {
 ---
 -->
 
-
-
-<!--
-## About Me
-
-
-```typescript
-const temidayoEmmanuel = {
-  role: "Software Developer",
-  experience: "3+ years",
-  currentFocus: [
-    "Next.js 15 & React 19",
-    "TypeScript Architecture",
-  ],
-  askMeAbout: "Next.JS, UI performance and MERN Stack",
-};
-```
--->
 
 <br clear="right"/>
 
