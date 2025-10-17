@@ -42,6 +42,7 @@ const temidayoEmmanuel = {
 
 ---
 
+<!--
 ## Frontend
 
 <div>
@@ -53,9 +54,10 @@ const temidayoEmmanuel = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" title="CSS3" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" title="SASS" />
 </div>
+ -->
 
 
-
+<!--
 ## Backend
 
 <div>
@@ -63,7 +65,7 @@ const temidayoEmmanuel = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" title="MongoDB" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="30" width="30" title="Express.js" />
 </div>
-
+ -->
 
 
 
