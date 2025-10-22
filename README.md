@@ -14,24 +14,20 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** who loves building intelligent, scalable web applications that solve real-world problems.
+I'm a passionate **Software Developer** who loves building intelligent, scalable web applications that solve real-world problems.
 
 ```javascript
 const developer = {
   name: "Temidayo Emmanuel",
-  role: "Full Stack Engineer",
+  role: "Software Developer",
   experience: "4+ years",
   specialties: [
     "MERN Stack",
-    "Flutter",
     "AI Integration",
-    "TypeScript Architecture"
   ],
   currentlyLearning: [
     "Next.js",
     "Flutter",
-    "Cloud Architecture",
-    "AI/ML"
   ],
   openToCollaborate: true,
   funFact: "I believe great code is written with passion and precision ✨"
