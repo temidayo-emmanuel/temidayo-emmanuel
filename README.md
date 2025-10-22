@@ -20,7 +20,7 @@ I'm a passionate **Software Developer** who loves building intelligent, scalable
 const developer = {
   name: "Temidayo Emmanuel",
   role: "Software Developer",
-  experience: "4+ years",
+  experience: "3+ years",
   specialties: [
     "MERN Stack",
     "AI Integration",
