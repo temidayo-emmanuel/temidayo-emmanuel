@@ -16,23 +16,7 @@
 
 I'm a passionate **Software Developer** who loves building intelligent, scalable web applications that solve real-world problems.
 
-```javascript
-const developer = {
-  name: "Temidayo Emmanuel",
-  role: "Software Developer",
-  experience: "3+ years",
-  specialties: [
-    "MERN Stack",
-    "AI Integration",
-  ],
-  currentlyLearning: [
-    "Next.js",
-    "Flutter",
-  ],
-  openToCollaborate: true,
-  funFact: "I believe great code is written with passion and precision ✨"
-};
-```
+
 ## 🛠️ Technologies & Tools
 
 ### **Frontend Stack**
