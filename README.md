@@ -23,6 +23,9 @@
 ⚙️ **Current Focus:** Building full-stack applications with the **MERN stack** and exploring **Next.js** for modern web development.  
 
 
+
+<br><br><br><br>
+
 ## 🛠️ Technologies & Tools
 
 ### **Frontend Stack**
